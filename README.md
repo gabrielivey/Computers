@@ -12,7 +12,7 @@ These could be external, such as your monitor, mouse, and keyboard, or internal,
 
 Programs contain a set of instructions (an algorithm) that performs tasks on a computer. An operating system is a type of program that manages all applications within that computer. Common operating systems include Windows on Microsoft computers, and MacOS on Apple computers.
 
-![Software](https://cdn.educba.com/academy/wp-content/uploads/2019/12/types-of-computer-software.jpg)
+![Software](https://www.coderus.com/wp-content/uploads/2020/11/different-types-of-software-coderus-branded-image.jpg)
 
 [<-- How Computers Work](https://github.com/gabrielivey/Computers/tree/How-Computers-Work)
 
