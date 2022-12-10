@@ -1,4 +1,3 @@
-
 # The World of Computers
 ### Final Project for INFOTC 1600 by Gabriel Ivey
 
@@ -12,5 +11,4 @@ Let's get started:
 1. [How Computers Work](https://github.com/gabrielivey/Computers/tree/How-Computers-Work)
 2. [Hardware Versus Software](https://github.com/gabrielivey/Computers/tree/Hardware-Versus-Software)
 3. [Building Your Own Computer](https://github.com/gabrielivey/Computers/tree/Building-Your-Own-Computer)
-4. [Using a Computer](https://github.com/gabrielivey/Computers/tree/Using-a-Computer)
-5. [Closing Thoughts](https://github.com/gabrielivey/Computers/tree/Closing-Thoughts)
+4. [Closing Thoughts](https://github.com/gabrielivey/Computers/tree/Closing-Thoughts)
