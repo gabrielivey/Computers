@@ -1,15 +1,15 @@
+# Closing Thoughts
 
-# The World of Computers
-### Final Project for INFOTC 1600 by Gabriel Ivey
+Technology is around us more than we may think. It is now essential to work, socialize, travel, and even survive via food and healthcare. With the world constantly changing, so too does our technology - but there is always somebody behind these changes leading the push towards innovation. I want to be that person. **You** could be that person!
 
----
+Hopefully this tutorial inspired you to do your own research and dig deeper. And, of course, hopefully it taught you a few things you didn't know before.
 
-Hello world! With this repository, I am going to cover the basics of computers - from hardware to software and all in-between. After reading through this tutorial, you should understand the basics of what computers are made of and how they work. And *maybe*, **hopefully**, you will have gained an interest in learning more on your own!
+As you go about your high school career and think about who you want to be, consider taking tech courses that interest and challenge you - whether that's programming or computer engineering, all are useful skills to have. Jobs in tech are rewarding in that you're essentially solving puzzles for a living, all while helping the world better communicate. Not to mention, they pay well and are often flexible in hours and work-from-home environments.
 
-Although the information covered will be basic, these concepts are still relatively new to many people even my age. Thus, this tutorial is directed more towards pre-teens and middle schoolers to help get a head start for all of the tech classes I'm sure you'll be taking in high school and beyond.
+But you have so much time to plan for the future. So get out there and get learning! ~~Or, you could play video games on that fancy computer you want to build.~~
 
-Let's get started:
-1. How Computers Work
-2. Hardware Versus Software
-3. Building Your Own Computer
-4. Using a Computer
+Thanks for listening!
+
+[<-- Building Your Own Computer](https://github.com/gabrielivey/Computers/tree/Building-Your-Own-Computer)
+
+[Main Page](https://github.com/gabrielivey/Computers/tree/main)
