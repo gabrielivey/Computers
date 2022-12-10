@@ -21,3 +21,7 @@ After taking in your information, a computer does whatever its told to do to mod
 
 ### Output
 Once data is changed, a computer has to present it back to the user in some way. It could do so through a display monitor, a video, or even by printing it onto a piece of paper. And, get this - when two computers connect, the output of one computer becomes the input to the other, and vice versa. Then this whole process starts over again. Crazy!
+
+[<--- Main Page](https://github.com/gabrielivey/Computers/tree/main)
+
+[---> Hardware Versus Software](https://github.com/gabrielivey/Computers/tree/Hardware-Versus-Software)
