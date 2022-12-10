@@ -36,6 +36,6 @@ As mentioned, this covers monitors, a mouse, and a keyboard.
 
 You may want a monitor with a better refresh rate (measured in Hertz) if you're playing a fast-paced game, or you may want a monitor with a higher resolution (more pixels per inch) if you're into watching movies and videos.
 
-[<--- Hardware Versus Software](https://github.com/gabrielivey/Computers/tree/Hardware-Versus-Software)
+[<-- Hardware Versus Software](https://github.com/gabrielivey/Computers/tree/Hardware-Versus-Software)
 
-[---> Closing Thoughts](https://github.com/gabrielivey/Computers/tree/Closing-Thoughts)
+[--> Closing Thoughts](https://github.com/gabrielivey/Computers/tree/Closing-Thoughts)
